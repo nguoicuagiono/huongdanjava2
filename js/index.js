@@ -1,6 +1,6 @@
 
 var contents = [
-	"GIAO DIỆN CHÍNH chứa thanh menu, thanh công cụ, và các nút nhấn, có cả đồng hồ ở góc trên bên phải",
+	"giao diện chính chứa thanh menu, thanh công cụ, và các nút nhấn, có cả đồng hồ ở góc trên bên phải",
 	"Nút NEW giúp chúng ta tạo mới một nhân viên nào đó, khi đang có dữ liệu xuất hiện ở ô nhập, nhấn nút new giúp xóa bỏ hết tất cả các ô và nhập lại, đỡ tốn thời gian xóa từng dòng một",
 	"Nút ADD giúp chúng ta lưu một nhân viên mới, khi chung ta muốn lưu một nhân viên nào đó chỉ cần nhấn nút ADD là xong ",
 	"Nút UPDATE giúp chúng ta chỉnh sữa thay đỗi một thông tin nào đó trong danh sách chúng ta đã lưu, lưu ý không được thay đỗi mã số nhân viên",
